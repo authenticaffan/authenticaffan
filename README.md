@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/authenticaffan" target="blank"><img src="https://img.shields.io/twitter/follow/authenticaffan?logo=twitter&style=for-the-badge" alt="authenticaffan" /></a> </p>
 
-- 🔭 I’m currently working on [DevColab](https://github.com/authenticaffan/DevColab.git)
-
-- 🌱 I’m currently learning **React.js, Express.js,Next.js**
-
-- 👯 I’m looking to collaborate on [AI - Sentiment Analysis](https://github.com/authenticaffan/sentiment-analysis)
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://mohamedaffan.netlify.app/](https://mohamedaffan.netlify.app/)
 
 - 📝 I regularly write articles on [https://authenticaffan.medium.com/](https://authenticaffan.medium.com/)
-
-- 💬 Ask me about **React.js and Express.js**
 
 - 📫 How to reach me **mohamedaffan477@gmail.com**
 
