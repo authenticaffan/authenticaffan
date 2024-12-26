@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Affan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=authenticaffan&label=Profile%20views&color=0e75b6&style=flat" alt="authenticaffan" /> </p>
 
 - 🌱 I’m currently learning **full stack development**
 
@@ -12,7 +11,11 @@
 - 📫 How to reach me **mohamedaffan477@gmail.com**
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=authenticaffan&show_icons=true&locale=en&layout=compact" alt="authenticaffan" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=authenticaffan&show_icons=true&locale=en" alt="authenticaffan" /></p>
+
+&nbsp;![](https://komarev.com/ghpvc/?username=authenticaffan&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=authenticaffan&show_icons=true&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=authenticaffan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 <p></p>
 
