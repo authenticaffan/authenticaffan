@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Affan</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://mohamedaffan.netlify.app/](https://mohamedaffan.netlify.app/)
 
